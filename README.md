@@ -11,7 +11,7 @@ Estou em transição de carreira para a área de **Análise de Dados**, exploran
 - 🛠 **ETL e Engenharia de Dados**  
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens**: Python, SQL, HTML, CSS  
+- **Linguagens**: Python, SQL  
 - **Bancos de Dados**: SQL (PostgreSQL, MySQL)  
 - **Visualização**: Power BI, Tableau, Matplotlib, Seaborn  
 - **Metodologias**: Agile (Scrum & Kanban)  
